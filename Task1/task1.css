@@ -1,0 +1,6 @@
+.bg{
+    /* background-image: "src/bg.avif"; */
+    background: url("src/bg.avif");
+    background-size: auto;
+    overflow: hidden;
+}
